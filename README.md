@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jean Menino
 
-<!--
-**jeanwox/jeanwox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-end, com foco em JavaScript, React.js e Tailwind CSS.
+Atuei no desenvolvimento de um sistema real de gestão para escola de futebol (SIG Sports).
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- JavaScript
+- React.js
+- Tailwind CSS
+- HTML5 | CSS3
+- Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projeto em destaque
+🔹 **SIG Sports**  
+Sistema de gestão para escola de futebol, desenvolvido com React.js e Tailwind CSS.
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/jean-menino
+- Email: woxtfm@gmail.com
