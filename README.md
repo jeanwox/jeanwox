@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou o Jean Menino
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<p align="right">
+  <img src="https://github.com/saadeghi/daisyui/raw/master/src/docs/public/images/cat-typing.gif" width="250">
+</p>
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º Semestre)
 - 🔭 Estou à procura do meu primeiro estágio na área da tecnologia (Estágio em TI)
