@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jean Menino
+# 👋 Olá, eu sou Jean "Wox" Júnior
 
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZvNGZmMmhld3FpZ3VhMzg0OHc4MDIycWNvYmw2Nm95cTkxc2IzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width="170">
 
