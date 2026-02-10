@@ -1,10 +1,14 @@
 # 👋 Olá, eu sou o Jean Menino
 
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZvNGZmMmhld3FpZ3VhMzg0OHc4MDIycWNvYmw2Nm95cTkxc2IzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZvNGZmMmhld3FpZ3VhMzg0OHc4MDIycWNvYmw2Nm95cTkxc2IzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width="170">
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º Semestre)
 - 🔭 Estou à procura do meu primeiro estágio na área da tecnologia (Estágio em TI)
 - 💻 Desenvolvedor Front-end focado em **React** e **Tailwind CSS**
+- 🧠 Aprimorando meus conhecimentos em React e TypeScript.
+
+<br clear="right"/>
+
 
 ## 📫 Contato
 - **LinkedIn:** [https://linkedin.com/in/jean-menino](https://linkedin.com/in/jean-menino)
