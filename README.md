@@ -4,7 +4,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º Semestre)
 - 🔭 Estou à procura do meu primeiro estágio na área da tecnologia (Estágio em TI)
-- 💻 Desenvolvedor Front-end focado em **React** e **Tailwind CSS**
+- 💻 Desenvolvedor Fullstack focado em **React**, **Node** e **Pyhton**
 - 🧠 Aprimorando meus conhecimentos em React e TypeScript.
 
 <br clear="right"/>
